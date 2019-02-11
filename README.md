@@ -12,7 +12,6 @@ Tools Used:
 Schematic:
 ![alt text](https://github.com/kfsl/RF433Mhz-Transceiver/blob/master/blok%20diagram.png)
 
-Visual:
 ![alt text](https://github.com/kfsl/RF433Mhz-Transceiver/blob/master/visual.jpg)
 
 © 2016 Kafin Salim
